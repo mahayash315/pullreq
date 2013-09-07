@@ -1,4 +1,4 @@
-﻿pullreq てれれん！(☝  ՞ਊ  ՞)☝ウイーン
+pullreq てれれん！
 =======
 
 pull requestの練習用テストリポジトリ
